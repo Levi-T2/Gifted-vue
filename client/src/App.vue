@@ -37,4 +37,15 @@ footer {
   place-content: center;
   height: 32px;
 }
+
+
+.card-style {
+    border: 5px outset rgb(58, 23, 101);
+    background-color: rgb(5, 5, 66);
+    border-radius: 20px;
+    color: white;
+    padding: 1rem;
+    font-weight: bold;
+    box-shadow: 8px 4px 4px rgb(86, 83, 83);
+  }
 </style>
